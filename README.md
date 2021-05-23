@@ -2,17 +2,26 @@
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-3cc6fd?logo=flutter)
 ![Dart](https://img.shields.io/badge/Language-Dart-0c458b?logo=dart)
 
-A new Flutter project.
+Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta um resumo semanal dos gastos.
 
-## Getting Started
+## Funções Implementadas e Aprendizados:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Container, Columns e Rows;
+- Criação de classe de modelo;
+- Combinação e personalização de widgets;
+- Instalação de dependências (pubspec.yaml);
+- Pacote de internacionalização (intl) para formatação de datas;
+- Formulários (TextField) utilizando Modal;
+- Navigator;
+- Correção de overflow de pixels (SingleChildScrollView);
+- ListView, ListTile, Flexible e Expanded;
+- Personalização de estilos com Theme;
+- Utilização de DatePicker;
+- Adição e exclusão de itens pelo usuário;
+- Interfaces responsivas e adaptativas:
+  - Tamanho e orientação de tela;
+  - Constraints;
+  - MediaQuery;
+  - Plataforma Android/IOS;
+  - Design de widgets com Material/Cupertino.
+- Utilizando chaves (Valuekeys) para manipulação de dados e estados.
