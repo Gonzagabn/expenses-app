@@ -7,6 +7,7 @@ Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta
 ## Funções Implementadas e Aprendizados:
 
 - Container, Columns e Rows;
+- Estrutura de projetos;
 - Criação de classe de modelo;
 - Combinação e personalização de widgets;
 - Instalação de dependências (pubspec.yaml);
@@ -16,6 +17,7 @@ Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta
 - Correção de overflow de pixels (SingleChildScrollView);
 - ListView, ListTile, Flexible e Expanded;
 - Personalização de estilos com Theme;
+- Inclusão e configuração de fontes e imagens;
 - Utilização de DatePicker;
 - Adição e exclusão de itens pelo usuário;
 - Interfaces responsivas e adaptativas:
