@@ -2,7 +2,7 @@
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-3cc6fd?logo=flutter)
 ![Dart](https://img.shields.io/badge/Language-Dart-0c458b?logo=dart)
 
-Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta um resumo semanal dos gastos.
+Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta um resumo semanal de gastos.
 
 ## Funções Implementadas e Aprendizados:
 
