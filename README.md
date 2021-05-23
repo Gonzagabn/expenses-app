@@ -13,7 +13,7 @@ Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta
 - Instalação de dependências (pubspec.yaml);
 - Pacote de internacionalização (intl) para formatação de datas;
 - Formulários (TextField) utilizando Modal;
-- Navigator;
+- Navigator para sobrepor e remover "páginas" da tela;
 - Correção de overflow de pixels (SingleChildScrollView);
 - ListView, ListTile, Flexible e Expanded;
 - Personalização de estilos com Theme;
