@@ -7,9 +7,9 @@ import 'package:expenses2/components/transaction_list.dart';
 import 'package:expenses2/models/transaction.dart';
 import 'components/chart.dart';
 
-main() => runApp(Expenses2App());
+main() => runApp(ExpensesApp());
 
-class Expenses2App extends StatelessWidget {
+class ExpensesApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -138,14 +138,14 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
 
     final PreferredSizeWidget appBar = Platform.isIOS
         ? CupertinoNavigationBar(
-            middle: Text('Despesas Versão 2'),
+            middle: Text('Despesas'),
             trailing: Row(
               mainAxisSize: MainAxisSize.min,
               children: actions,
             ),
           )
         : AppBar(
-            title: Text('Despesas Versão 2'
+            title: Text('Despesas'
                 /*style: TextStyle(fontSize: 20 * MediaQuery.of(context).textScaleFactor)*/
                 ),
             actions: actions,
