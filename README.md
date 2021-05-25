@@ -6,6 +6,8 @@ Aplicativo de despesas pessoais que armazena as despesas do usuário e apresenta
 
 Projetado para fins de estudo pela Cod3r - https://www.udemy.com/course/curso-flutter/
 
+![img](https://i.imgur.com/rHP1gpz.png)
+
 ## Funções Implementadas e Aprendizados:
 
 - Container, Columns e Rows;
